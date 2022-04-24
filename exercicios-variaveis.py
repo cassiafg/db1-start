@@ -1,7 +1,4 @@
 #1.Faça um Programa que mostre a mensagem "Alo mundo" na tela.
-from modulefinder import LOAD_CONST
-
-
 mensagem = 'Alo mundo'
 print(mensagem)
 
